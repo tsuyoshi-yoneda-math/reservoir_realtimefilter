@@ -4,7 +4,6 @@ I constructed Reservoir (without any ``Class" setting!) and realtime filter (bas
 
 If you want to know the mathematical structure of this realtime filter, see the following paper:
 
-
-Long-term prediction of El Niño-Southern Oscillation using reservoir computing with data-driven realtime filter
+``Long-term prediction of El Niño-Southern Oscillation using reservoir computing with data-driven realtime filter"
 
 https://arxiv.org/abs/2501.17781
