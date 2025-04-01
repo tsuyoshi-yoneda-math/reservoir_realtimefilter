@@ -59,3 +59,7 @@ The following parameters are related to training and prediction of the time seri
 Note that the number of reservoir node is fixed to 70 in the sample code.
 
 The history of bayesian optimization, "reservoir.csv" is generated.
+
+##################################################################
+
+Tsuyoshi Yoneda would like to thank Takuya Jinno for producing this readme and .py files.
