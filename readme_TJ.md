@@ -62,4 +62,4 @@ The history of bayesian optimization, "reservoir.csv" is generated.
 
 ##################################################################
 
-Tsuyoshi Yoneda would like to thank Takuya Jinno for producing this readme and .py files.
+Tsuyoshi Yoneda would like to thank Takuya Jinno for producing this readme and the .py files.
